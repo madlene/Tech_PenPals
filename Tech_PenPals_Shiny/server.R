@@ -1,4 +1,4 @@
-# URL: https://pragyansmita.shinyapps.io/paygap_Shiny/ 
+# URL: https://pragyansmita.shinyapps.io/Tech_PenPals_Shiny/
 
 # To deploy the app in ShinyApps.io (5 apps allowed for free)
 # if (!require(rsconnect))
